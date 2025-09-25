@@ -27,6 +27,10 @@ body {
     list-style: none;
 }
 
+.navbar__logo {
+    
+}
+
 .navbar__item {
     margin-left: 1rem;
 }
@@ -44,7 +48,7 @@ body {
 .product-card {
     display: flex;
     flex-direction: column;
-    border: 1px solid #ddd;
+    border: 3px solid #ddd;
     padding: 1rem;
     max-width: 300px;
     margin: 1rem 0;
